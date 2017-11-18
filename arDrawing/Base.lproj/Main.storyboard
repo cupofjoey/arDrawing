@@ -45,6 +45,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
+                        <outlet property="draw" destination="aYj-Pt-PhG" id="9Zt-RE-7eu"/>
                         <outlet property="sceneView" destination="wNm-XC-uC0" id="unK-Hg-jKT"/>
                     </connections>
                 </viewController>
